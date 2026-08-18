@@ -131,17 +131,18 @@ It is deployed on **Google Cloud Run** and is publicly accessible at:
 
 ## 📸 Screenshots
 
-### Search Page
+### 🏠 Recipe Search
 
-_Add a screenshot of the initial Recipe Finder search page here._
+![Recipe Finder Home Page](screenshots/home.png)
 
-### Search Results
+### 🔍 Search Results
 
-_Add a screenshot showing recipe search results here._
+![Recipe Search Results](screenshots/search-results.png)
 
-### Recipe Details
+### 🍽️ Recipe Details
 
-_Add a screenshot showing the detailed recipe view here._
+![Recipe Details](screenshots/recipe-details1.png)
+![Recipe Details](screenshots/recipe-details2.png)
 
 ## 💡 What I Learned
 
